@@ -14,7 +14,7 @@ This GitHub repository contains all the Jupyter Notebooks and any additional nec
 
 Here is a quick summary of the notebook:
 
-1) crypto_time_series_predict: From our dataset we use only the closing price of the cryptocoin each day and by feeding this information to regression models such as SVM, Auto-ML, ARIMA and many more we try to predict its price for the following days. 
+1) crypto_time_series_predict: From our dataset we use only the closing price of the cryptocoin each day and by feeding this information to regression models such as SVM, Auto-ML, ARIMA, an LSTM model and many more we try to predict its price for the following days. 
 
 And here is a quick summary of the dataset:
 
